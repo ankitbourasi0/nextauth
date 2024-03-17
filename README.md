@@ -9,6 +9,16 @@ Basic Authentication API,
 - Forget Password Expire
 ### This app has all basic authentication feature!!! UI is not important for this project, you can add your own UI and style it!!!
 
+```bash
+# 1: signup api route 
+  /api/users/signup
+# 2: login api route
+  /api/users/login
+# 3 logout api route 
+  /api/users/logout
+  
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
