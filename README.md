@@ -1,3 +1,14 @@
+## Next AUTH app
+Basic Authentication API,
+- Login
+- Logout
+- Signup
+- Token Generation
+- Token Expiration
+- Forget Password
+- Forget Password Expire
+### This app has all basic authentication feature!!! UI is not important for this project, you can add your own UI and style it!!!
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
